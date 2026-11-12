@@ -1,7 +1,14 @@
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET 10](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-blue?style=for-the-badge)
-![GitHub Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge)
+[![Node.js](https://img.shields.io/badge/Node.js-3D8733.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Electron](https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=electron&logoColor=white)](https://electronjs.org)
+[![Swift](https://img.shields.io/badge/SwiftUI-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift)
+[![Capacitor](https://img.shields.io/badge/Capacitor-1B98E0.svg?style=for-the-badge&logo=capacitor&logoColor=white)](https://capacitorjs.com)
+[![macOS](https://img.shields.io/badge/macOS-13%2B-000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+[![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![Android](https://img.shields.io/badge/Android-8-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
+[![Meta Quest](https://img.shields.io/badge/Meta%20Quest%202-1B1B1B.svg?style=for-the-badge&logo=meta&logoColor=white)](https://www.meta.com/quest/)
+[![Open Source](https://img.shields.io/badge/Open%20Source-lUCASFBLAB%2Fgame--on--launcher-f2385a.svg?style=for-the-badge)](https://github.com/lUCASFBLAB/game-on-launcher)
+[![Downloads](https://img.shields.io/badge/Downloads-lUCASFBLAB%2Fgame--on--launcher-f2385a.svg?style=for-the-badge)](https://github.com/lUCASFBLAB/game-on-launcher/releases)
+[![Licença](https://img.shields.io/badge/Licença-MIT-f2385a.svg?style=for-the-badge)](LICENSE)
 # Game on Launcher
 
 Launcher de Minecraft para **macOS, Windows e Android**. Reúne gestão de instâncias e
