@@ -7,7 +7,7 @@
 [![Android](https://img.shields.io/badge/Android-8-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
 [![Meta Quest](https://img.shields.io/badge/Meta%20Quest%202-1B1B1B.svg?style=for-the-badge&logo=meta&logoColor=white)](https://www.meta.com/quest/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-lUCASFBLAB%2Fgame--on--launcher-f2385a.svg?style=for-the-badge)](https://github.com/lUCASFBLAB/game-on-launcher)
-[![Downloads](https://img.shields.io/badge/Downloads-lUCASFBLAB%2Fgame--on--launcher-f2385a.svg?style=for-the-badge)](https://github.com/lUCASFBLAB/game-on-launcher/releases)
+[![Downloads](https://img.shields.io/badge/Downloads-lUCASFBLAB%2Fgame--on--launcher-f2385a.svg?style=for-the-badge)](https://gameonlauncher.lovable.app/)
 [![Licença](https://img.shields.io/badge/Licença-MIT-f2385a.svg?style=for-the-badge)](LICENSE)
 # Game on Launcher
 
