@@ -1,3 +1,7 @@
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET 10](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-blue?style=for-the-badge)
+![GitHub Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge)
 # Game on Launcher
 
 Launcher de Minecraft para **macOS, Windows e Android**. Reúne gestão de instâncias e
